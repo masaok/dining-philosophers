@@ -1,6 +1,7 @@
 # Dining Philosophers
 
 * Turn-based dining
+* Currently only displays initial state and state after first round of attempted eating
 
 ## Future improvements
 
